@@ -1,0 +1,7 @@
+slug: blind-sqli
+title: Blind Oracle
+category: sql injection
+difficulty: hard
+points: 350
+codec: fernet
+repo_url: https://github.com/sparflag/blind-sqli
